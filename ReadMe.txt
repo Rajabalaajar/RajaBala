@@ -10,3 +10,5 @@ Download all the files mentioned in the URL(Except Website1 folder).
 8. Goto to "Inventory API" physical location and open "web.config" file.
 9. Locate the key "ConString" and verify the database details mentioned in Setp 1a.
 10. Click on "Inventory UI" site and then click browse.
+
+Note: "Source.zip" is source for the project
