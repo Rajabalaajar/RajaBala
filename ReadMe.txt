@@ -1,4 +1,4 @@
-Download all the files mentioned in the URL.
+Download all the files mentioned in the URL(Except Website1 folder).
 1. Extract "Inventory.zip"
 1a. Open "Script.sql.txt" and Run the script in a MSSQL Database server
 2. Copy the extracted folders "Inventory API", "Inventory UI" into some directory.
